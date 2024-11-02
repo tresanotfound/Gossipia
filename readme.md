@@ -3,7 +3,7 @@
 # 🎯Project Name - Gossipia : Gossips uncovered, secrets exposed!
 
 ## Basic Details
-### Team Name: Hat-trick Hackers
+### Team Name: Hat-trick Hackers (From CUCEK)
 
 ### Team Members
 - Team Lead: Harigovind M G -Cochin University College of Engineering Kuttanad,CUSAT
@@ -11,9 +11,8 @@
 - Member 3:  Anna Michael -  Cochin University College of Engineering Kuttanad,CUSAT
 
 ### Project Description
-Gossipia is a fun and pointless online platform where users can anonymously share and discover juicy gossip, scandals, and rumors.
-It gets stored forever, creating an unchangeable “gossip chain". Explore unfiltered submissions, indulge in the latest scoops, and
-join the conversation. No holds barred, no secrets kept. Dive into the wild world of gossip. It's just a way to immortalize random, trivial rumors...
+Gossipia is a fun and light-hearted online platform where users can anonymously share and discover juicy gossip, scandals, and rumors. These posts are stored forever, creating a persistent "gossip archive." Dive into the unfiltered submissions, indulge in the latest scoops, and join the conversation. No holds barred, no secrets kept. Gossipia is just a way to immortalize random, trivial rumors… purely for fun!
+
 
 ### The Problem (that doesn't exist)
 Gossip withdrawal symptoms due to lack of juicy, unverified, and potentially scandalous information
@@ -40,30 +39,22 @@ Software:
 # Installation
 Commands to be used
 - Frontend
-  cd gossipia-frontend
   npm install 
-  npm run dev
 - Backend
-  cd server
-  yarn install
-  docker-compose up --build
-         
+  yarn install        
 
-# Run
+# Run Commands
 Commands to be used
 - Frontend
   cd gossipia-frontend
-  npm install 
   npm run dev
 - Backend
   cd server
-  yarn install
   docker-compose up --build
          
 
 ### Project Documentation
-For Software:
-
+![For Software:] (https://docs.google.com/document/d/1jd3N9hqh99jqsHhiuT-puOXv2QPRUSgJm7BZSX1emGo/edit?usp=sharing)
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -86,6 +77,6 @@ For Software:
 This video shows the working flow of our app.
 
 ## Team Contributions
-- Harigovind M G: [Specific contributions]
-- Treesa George: [Specific contributions]
-- Anna Michael: [Specific contributions]
+- Harigovind M G: Backend & Frontend
+- Treesa George: UI/UX designing(Figma),documentation,Github
+- Anna Michael: Logo&Branding, documentation
